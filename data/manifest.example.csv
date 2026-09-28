@@ -1,0 +1,3 @@
+path,label,speaker
+data/raw/example_001.wav,happy,speaker_01
+data/raw/example_002.wav,sad,speaker_02
