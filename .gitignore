@@ -3,12 +3,12 @@ __pycache__/
 *.py[cod]
 .env
 .pytest_cache/
-data/raw/
-data/processed/
-data/emodb/
-data/*.zip
-artifacts/*.pt
-artifacts/*.json
-uploads/
-!artifacts/.gitkeep
-!data/.gitkeep
+# data/raw/
+# data/processed/
+# data/emodb/
+# data/*.zip
+# artifacts/*.pt
+# artifacts/*.json
+# uploads/
+# !artifacts/.gitkeep
+# !data/.gitkeep
